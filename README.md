@@ -1,4 +1,4 @@
-## Oii 👋
+## Opa 👋
 - 🌱 Técnico em Informática
 - 😄 Pronomes: ele/dele
 ##
