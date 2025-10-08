@@ -1,5 +1,5 @@
 ## Oii 👋
-- 🌱 Estudante da ECIT - CC 
+- 🌱 Técnico em Informática
 - 😄 Pronomes: ele/dele
 ##
 <div style="display: flex">
