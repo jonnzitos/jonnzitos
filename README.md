@@ -1,9 +1,5 @@
 <h1 align="center">👋 Opa, tudo bem?</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=450&lines=T%C3%A9cnico+em+Inform%C3%A1tica;Apaixonado+por+Tecnologia+💻;Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
-</p>
-
 ---
 
 ### 💫 Sobre mim:
