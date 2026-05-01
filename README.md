@@ -1,74 +1,49 @@
 <h1 align="center">João Victor Ribeiro Oliveira</h1>
 
 <p align="center">
-Desenvolvedor em formação focado em construção de soluções reais
-</p>
-
-<p align="center">
-🎓 ADS - IFPB Cajazeiras • 💻 Técnico em Informática • 🚀 Projetos práticos
+💻 Desenvolvedor em formação • 🎓 ADS - IFPB Cajazeiras
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 Sobre
 
-Sou desenvolvedor em formação com base técnica em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFPB.
+Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFPB, com formação técnica em Informática.
 
-Tenho experiência prática no desenvolvimento de sistemas e aplicações, participando de eventos como hackathons e criando soluções voltadas para problemas reais, incluindo sistemas de agendamento, gerenciamento e aplicações voltadas ao público jovem.
+Tenho experiência prática no desenvolvimento de sistemas e aplicações, participando de hackathons e construindo soluções voltadas a problemas reais, como sistemas de agendamento, gerenciamento e aplicações voltadas ao público jovem.
 
-Também atuei com suporte técnico e manutenção de sistemas durante estágio, o que fortaleceu minha visão prática da área de tecnologia.
+Também atuei como estagiário em suporte técnico, desenvolvendo habilidades em manutenção, diagnóstico e resolução de problemas.
 
 ---
 
-### 🚀 Projetos relevantes
+### 🚀 Projetos
 
 **📅 Sistema de Agenda - Prefeitura de Cajazeiras**
-Sistema de agendamento de serviços públicos desenvolvido em ambiente de hackathon
-**Stack:** FlutterFlow, Typebot
+Sistema de agendamento de serviços públicos desenvolvido em hackathon
+Tecnologias: FlutterFlow, Typebot
 
 **📚 Sistema de Biblioteca Escolar**
 Aplicação para gerenciamento de acervo e organização de livros
-**Stack:** Python
+Tecnologia: Python
 
 **📱 BuscaJá**
-Aplicativo voltado para conexão de jovens com oportunidades de estágio
-**Stack:** FlutterFlow, HTML, CSS
+Aplicativo para conexão de jovens a oportunidades de estágio
+Tecnologias: FlutterFlow, HTML, CSS
 
 ---
 
 ### 🛠️ Stack
 
-<div align="center">
-
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-</div>
+<p align="center">
+Python • C • HTML • CSS
+</p>
 
 ---
 
-### 🌐 Contato
-
-<div align="center">
-  <a href="mailto:joao.oliveira.30@academico.ifpb.edu.br">
-    <img src="https://img.shields.io/badge/Gmail-1E88E5?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ribeiro-oliveira-710940250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/jonnzitos" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-  <a href="https://github.com/jonnzitos" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
----
+### 📫 Contato
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1976D2&height=100&section=footer"/>
+<a href="mailto:joao.oliveira.30@academico.ifpb.edu.br">Email</a> • 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ribeiro-oliveira-710940250/">LinkedIn</a> • 
+<a href="https://github.com/jonnzitos">GitHub</a>
 </p>
