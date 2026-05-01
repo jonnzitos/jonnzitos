@@ -36,29 +36,16 @@ Aplicativo voltado para conexão de jovens com oportunidades de estágio
 
 ---
 
-### 🛠️ Stack e ferramentas
+### 🛠️ Stack
 
 <div align="center">
 
-#### Linguagens
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-#### Ferramentas & Plataformas
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-#### No-code / Low-code
-
-<img height="45" src="https://logowik.com/content/uploads/images/flutterflow2312.logowik.com.webp" />
-<img height="45" src="https://raw.githubusercontent.com/baptisteArno/typebot.io/main/apps/builder/public/favicon.png" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 </div>
-
 
 ---
 
