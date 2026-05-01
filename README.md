@@ -1,49 +1,77 @@
-<h1 align="center">👋 Opa, tudo bem?</h1>
+<h1 align="center">João Victor Ribeiro Oliveira</h1>
+
+<p align="center">
+Desenvolvedor em formação focado em construção de soluções reais
+</p>
+
+<p align="center">
+🎓 ADS - IFPB Cajazeiras • 💻 Técnico em Informática • 🚀 Projetos práticos
+</p>
 
 ---
 
-### 💫 Sobre mim:
-- 🌱 Técnico em Informática  
-- 😄 Pronomes: ele/dele  
+### 🧠 Sobre mim
+
+Sou desenvolvedor em formação com base técnica em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFPB.
+
+Tenho experiência prática no desenvolvimento de sistemas e aplicações, participando de eventos como hackathons e criando soluções voltadas para problemas reais, incluindo sistemas de agendamento, gerenciamento e aplicações voltadas ao público jovem.
+
+Também atuei com suporte técnico e manutenção de sistemas durante estágio, o que fortaleceu minha visão prática da área de tecnologia.
 
 ---
 
-### 📊 Minhas estatísticas:
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonnzitos&show_icons=true&theme=blue_navy&hide_border=true&border_radius=10&bg_color=0d1117&title_color=1976D2&icon_color=1976D2">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnzitos&layout=compact&langs_count=8&theme=blue_navy&hide_border=true&border_radius=10&bg_color=0d1117&title_color=1976D2"/>
-</div>
+### 🚀 Projetos relevantes
+
+**📅 Sistema de Agenda - Prefeitura de Cajazeiras**
+Sistema de agendamento de serviços públicos desenvolvido em ambiente de hackathon
+**Stack:** FlutterFlow, Typebot
+
+**📚 Sistema de Biblioteca Escolar**
+Aplicação para gerenciamento de acervo e organização de livros
+**Stack:** Python
+
+**📱 BuscaJá**
+Aplicativo voltado para conexão de jovens com oportunidades de estágio
+**Stack:** FlutterFlow, HTML, CSS
 
 ---
 
-### 💻 Tecnologias que uso:
-<div align="center" style="display: inline_block"><br>
+### 🛠️ Stack e ferramentas
+
+<div align="center"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />       
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+
+<p align="center">
+Python • C • HTML • CSS • FlutterFlow • Typebot • Lógica de Programação
+</p>
+
+---
+
+### 📈 Estatísticas
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonnzitos&show_icons=true&theme=blue_navy&hide_border=true&bg_color=0d1117&title_color=1976D2&icon_color=1976D2">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnzitos&layout=compact&theme=blue_navy&hide_border=true&bg_color=0d1117&title_color=1976D2"/>
 </div>
 
 ---
 
-### 🌐 Onde me encontrar:
+### 🌐 Contato
+
 <div align="center">
-  <a href="mailto:joaoribeiroo15987@gmail.com" target="_blank">
+  <a href="mailto:joao.oliveira.30@academico.ifpb.edu.br">
     <img src="https://img.shields.io/badge/Gmail-1E88E5?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/joaaorb/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1976D2?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jonn-undefined-710940250/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ribeiro-oliveira-710940250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
-
----
-
-### 🏆 Troféus do GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonnzitos&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10"/>
+  <a href="https://github.com/jonnzitos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
 
 ---
