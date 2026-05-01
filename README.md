@@ -54,9 +54,8 @@ Aplicativo voltado para conexão de jovens com oportunidades de estágio
 
 #### No-code / Low-code
 
-<p>
-FlutterFlow • Typebot
-</p>
+<img height="45" src="https://logowik.com/content/uploads/images/flutterflow2312.logowik.com.webp" />
+<img height="45" src="https://raw.githubusercontent.com/baptisteArno/typebot.io/main/apps/builder/public/favicon.png" />
 
 </div>
 
