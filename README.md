@@ -34,16 +34,25 @@ Tecnologias: FlutterFlow, HTML, CSS
 
 ### 🛠️ Stack
 
-<p align="center">
-Python • C • HTML • CSS
-</p>
+<div align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
 
 ---
 
 ### 📫 Contato
 
-<p align="center">
-<a href="mailto:joao.oliveira.30@academico.ifpb.edu.br">Email</a> • 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ribeiro-oliveira-710940250/">LinkedIn</a> • 
-<a href="https://github.com/jonnzitos">GitHub</a>
-</p>
+<div align="center">
+  <a href="mailto:joao.oliveira.30@academico.ifpb.edu.br">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ribeiro-oliveira-710940250/" target="_blank">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://github.com/jonnzitos" target="_blank">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+</div>
