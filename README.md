@@ -49,16 +49,6 @@ Aplicativo voltado para conexão de jovens com oportunidades de estágio
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jonnzitos&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnzitos&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</div>
-
-
----
-
 ### 🌐 Contato
 
 <div align="center">
