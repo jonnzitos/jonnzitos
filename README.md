@@ -73,6 +73,10 @@ Python • C • HTML • CSS • FlutterFlow • Typebot • Lógica de Program
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
+  <a href="https://github.com/jonnzitos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 ---
 
