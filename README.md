@@ -18,20 +18,20 @@ Também atuei como estagiário em suporte técnico, desenvolvendo habilidades em
 ### 🚀 Projetos
 
 **🧟 Umbrella Archive**
-Portal sobre a franquia Resident Evil com conteúdo organizado sobre jogos, personagens e cronologia
-Tecnologias: HTML, CSS
+Portal dedicado à franquia Resident Evil, reunindo informações sobre jogos, personagens e cronologia.<br>
+**Tecnologias:** HTML, CSS
 
 **📅 Sistema de Agenda - Prefeitura de Cajazeiras**
-Sistema de agendamento de serviços públicos desenvolvido em hackathon
-Tecnologias: FlutterFlow, Typebot
+Sistema de agendamento de serviços públicos desenvolvido em hackathon.<br>
+**Tecnologias:** FlutterFlow, Typebot
 
 **📱 BuscaJá**
-Aplicativo para conectar jovens a oportunidades de estágio
-Tecnologias: FlutterFlow, HTML, CSS
+Aplicativo para conectar jovens a oportunidades de estágio.<br>
+**Tecnologias:** FlutterFlow, HTML, CSS
 
 **📚 Sistema de Biblioteca Escolar**
-Sistema para gerenciamento de acervo e organização de livros
-Tecnologia: Python
+Sistema para gerenciamento de acervo e organização de livros.<br>
+**Tecnologias:** Python
 
 
 ---
